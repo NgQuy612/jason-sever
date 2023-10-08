@@ -1,0 +1,34 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name_module": "iPhone 11 64GB",
+        "price": "10.190.000₫",
+        "img_module": "https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png",
+        "hot": true
+      },
+      {
+        "id": 2,
+        "name_module": "iPhone 13 128GB",
+        "price": "16.490.000₫",
+        "img_module": "https://cdn.tgdd.vn/Products/Images/42/223602/s16/iphone-13-pink-thumbtz-400x400.png"
+      }, {
+        "id": 3,
+        "name_module": "iPhone 12 64GB",
+        "price": "13.490.000₫",
+        "img_module": "https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-purple-thumbtz-400x400.png",
+        "hot": true
+      }, {
+        "id": 4,
+        "name_module": "iPhone 15 128GB",
+        "price": "21.990.000₫",
+        "img_module": "https://cdn.tgdd.vn/Products/Images/42/281570/s16/iphone-15-green-thumbtz_0-400x400.png",
+        "hot": true
+      }, {
+        "id": 5,
+        "name_module": "iPhone 14 Pro Max 512GB",
+        "price": "35.090.000₫",
+        "img_module": "https://cdn.tgdd.vn/Products/Images/42/289702/s16/iphone-14-pro-max-purple-thumbtz-650x650.png"
+      }
+    ]
+  }
