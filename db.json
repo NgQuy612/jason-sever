@@ -30,5 +30,67 @@
         "price": "35.090.000₫",
         "img_module": "https://cdn.tgdd.vn/Products/Images/42/289702/s16/iphone-14-pro-max-purple-thumbtz-650x650.png"
       }
+    ],
+    "iphone": [
+      {
+        "id": 1,
+        "to":"/iphone/detail-iphone",
+        "name": "iPhone 11 64GB",
+        "price": "10.190.000₫",
+        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png",
+        "color_url": [{"id":1,"color":"#f9f6ef", "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png"},
+        {"id":2,"color":"#1f2020", "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-black-thumbtz-650x650.png"}],
+        "local_price": [{"id":1,"local":"64GB", "price": "11.590.000₫"},{"id":2,"local":"128GB", "price": "13.790.000₫"}],
+        "hot": false,
+        "ready": false
+      },
+      {
+        "id": 2,
+        "to":"/iphone/detail-iphone",
+        "name": "iPhone 14 Plus",
+        "price": "21.590.000₫",
+        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-gold-thumbtz-650x650.png",
+        "hot": true
+
+      }, {
+        "id": 3,
+        "to":"/iphone/detail-iphone",
+        "name": "iPhone 13 64GB",
+        "price": "10.190.000₫",
+        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/303832/s16/iphone-15-pro-blue-thumbtz-650x650.png",
+        "hot": true
+      }, {
+        "id": 4,
+        "to":"/iphone/detail-iphone",
+        "name": "iPhone 15",
+        "price": "21.990.000₫",
+        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/281570/s16/iphone-15-green-thumbtz_0-650x650.png"
+      }, {
+        "id": 5,
+        "to":"/iphone/detail-iphone",
+        "name": "iPhone 13",
+        "price": "16.490.000₫",
+        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/223602/s16/iphone-13-pink-thumbtz-650x650.png",
+        "hot": true
+      }, {
+        "id": 6,
+        "to":"/iphone/detail-iphone",
+        "name": "iPhone 14 256GB",
+        "price": "22.090.000₫",
+        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/289663/s16/iphone-14-blue-thumbtz-650x650.png"
+      }, {
+        "id": 7,
+        "to":"/iphone/detail-iphone",
+        "name": "iPhone 14 Pro ",
+        "price": "23.790.000₫",
+        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/247508/s16/iphone-14-pro-gold-thumbtz-650x650.png",
+        "hot": true
+      }, {
+        "id": 8,
+        "to":"/iphone/detail-iphone",
+        "name": "iPhone 12",
+        "price": "13.490.000₫",
+        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-purple-thumbtz-650x650.png"
+      }
     ]
   }
