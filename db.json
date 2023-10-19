@@ -1,96 +1,1483 @@
 {
-    "data": [
-      {
-        "id": 1,
-        "name_module": "iPhone 11 64GB",
-        "price": "10.190.000₫",
-        "img_module": "https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png",
-        "hot": true
-      },
-      {
-        "id": 2,
-        "name_module": "iPhone 13 128GB",
-        "price": "16.490.000₫",
-        "img_module": "https://cdn.tgdd.vn/Products/Images/42/223602/s16/iphone-13-pink-thumbtz-400x400.png"
-      }, {
-        "id": 3,
-        "name_module": "iPhone 12 64GB",
-        "price": "13.490.000₫",
-        "img_module": "https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-purple-thumbtz-400x400.png",
-        "hot": true
-      }, {
-        "id": 4,
-        "name_module": "iPhone 15 128GB",
-        "price": "21.990.000₫",
-        "img_module": "https://cdn.tgdd.vn/Products/Images/42/281570/s16/iphone-15-green-thumbtz_0-400x400.png",
-        "hot": true
-      }, {
-        "id": 5,
-        "name_module": "iPhone 14 Pro Max 512GB",
-        "price": "35.090.000₫",
-        "img_module": "https://cdn.tgdd.vn/Products/Images/42/289702/s16/iphone-14-pro-max-purple-thumbtz-650x650.png"
-      }
-    ],
-    "iphone": [
-      {
-        "id": 1,
-        "to":"/iphone/detail-iphone",
-        "name": "iPhone 11 64GB",
-        "price": "10.190.000₫",
-        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png",
-        "color_url": [{"id":1,"color":"#f9f6ef", "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png"},
-        {"id":2,"color":"#1f2020", "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-black-thumbtz-650x650.png"}],
-        "local_price": [{"id":1,"local":"64GB", "price": "11.590.000₫"},{"id":2,"local":"128GB", "price": "13.790.000₫"}],
-        "hot": false,
-        "ready": false
-      },
-      {
-        "id": 2,
-        "to":"/iphone/detail-iphone",
-        "name": "iPhone 14 Plus",
-        "price": "21.590.000₫",
-        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-gold-thumbtz-650x650.png",
-        "hot": true
-
-      }, {
-        "id": 3,
-        "to":"/iphone/detail-iphone",
-        "name": "iPhone 13 64GB",
-        "price": "10.190.000₫",
-        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/303832/s16/iphone-15-pro-blue-thumbtz-650x650.png",
-        "hot": true
-      }, {
-        "id": 4,
-        "to":"/iphone/detail-iphone",
-        "name": "iPhone 15",
-        "price": "21.990.000₫",
-        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/281570/s16/iphone-15-green-thumbtz_0-650x650.png"
-      }, {
-        "id": 5,
-        "to":"/iphone/detail-iphone",
-        "name": "iPhone 13",
-        "price": "16.490.000₫",
-        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/223602/s16/iphone-13-pink-thumbtz-650x650.png",
-        "hot": true
-      }, {
-        "id": 6,
-        "to":"/iphone/detail-iphone",
-        "name": "iPhone 14 256GB",
-        "price": "22.090.000₫",
-        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/289663/s16/iphone-14-blue-thumbtz-650x650.png"
-      }, {
-        "id": 7,
-        "to":"/iphone/detail-iphone",
-        "name": "iPhone 14 Pro ",
-        "price": "23.790.000₫",
-        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/247508/s16/iphone-14-pro-gold-thumbtz-650x650.png",
-        "hot": true
-      }, {
-        "id": 8,
-        "to":"/iphone/detail-iphone",
-        "name": "iPhone 12",
-        "price": "13.490.000₫",
-        "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-purple-thumbtz-650x650.png"
-      }
-    ]
-  }
+  "data": [
+    {
+      "id": 1,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 11 64GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#f9f6ef",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#1f2020",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "11.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "13.790.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": true
+    },
+    {
+      "id": 2,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 15 Pro",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#4f5765",
+          "name_color": "Titan xanh",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#bab4a9",
+          "name_color": "Titan tự nhiên",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f2f1ec",
+          "name_color": "Titan trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-white-thumbtz-650x650.png"
+        },
+        {
+          "id": 4,
+          "color": "#464749",
+          "name_color": "Titan đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-black-thumbtz-1-2-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "27.990.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "30.990.000₫"
+        },
+        {
+          "id": 3,
+          "local": "512GB",
+          "price": "36.590.000₫"
+        },
+        {
+          "id": 4,
+          "local": "1TB",
+          "price": "42.590.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 3,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-sliver-thumb-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-label-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 4,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad 10 WiFi + Cellular",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#e3e4e5",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-sliver-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#6580a3",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-blue-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f0d95f",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "14.290.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "16.090.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 5,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-bac-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 6,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-13-m1-xam-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-13-m1-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "19.490.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "21.490.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 7,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316004/s16/apple-watch-se-lte-2023-vien-nhom-day-vai-trang-tb-1-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "8.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 8,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS 44mm Sport Band",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316015/s16/apple-watch-se-2023-vien-nhom-day-vai-trang-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "7.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    }
+  ],
+  "iphone": [
+    {
+      "id": 1,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 11 64GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#f9f6ef",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#1f2020",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "11.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "13.790.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": true
+    },
+    {
+      "id": 2,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 15 Pro",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#4f5765",
+          "name_color": "Titan xanh",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#bab4a9",
+          "name_color": "Titan tự nhiên",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f2f1ec",
+          "name_color": "Titan trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-white-thumbtz-650x650.png"
+        },
+        {
+          "id": 4,
+          "color": "#464749",
+          "name_color": "Titan đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-black-thumbtz-1-2-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "27.990.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "30.990.000₫"
+        },
+        {
+          "id": 3,
+          "local": "512GB",
+          "price": "36.590.000₫"
+        },
+        {
+          "id": 4,
+          "local": "1TB",
+          "price": "42.590.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 3,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 13 64GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#fff597",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-gold-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#a0b4c7",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#222930",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "21.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "23.990.000"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 4,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 15",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#fff597",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/281570/s16/iphone-15-green-thumbtz_0-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#a0b4c7",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#222930",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "22.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "23.990.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 5,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 13",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#fff597",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/223602/s16/iphone-13-pink-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#a0b4c7",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#222930",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "16.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "23.990.000"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 6,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 14 256GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#fff597",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/289663/s16/iphone-14-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#a0b4c7",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#222930",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "17.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "23.990.000"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 7,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 14 Pro ",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#fff597",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/247508/s16/iphone-14-pro-gold-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#a0b4c7",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#222930",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "20.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "23.990.000"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 8,
+      "to": "/iphone/detail-iphone",
+      "name": "iPhone 12",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#fff597",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-purple-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#a0b4c7",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#222930",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "23.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "23.990.000"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    }
+  ],
+  "ipad": [
+    {
+      "id": 1,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-sliver-thumb-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-label-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 2,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad 10 WiFi + Cellular",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#e3e4e5",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-sliver-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#6580a3",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-blue-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f0d95f",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "14.290.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "16.090.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 3,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad Air 5 WiFi + Cellular",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#e3e4e5",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#6580a3",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f0d95f",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "21.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "23.590.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 4,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad mini 6 WiFi + Cellular",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#e3e4e5",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/250734/s16/ipad-mini-6-5g-startlight-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#68696e",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/250734/s16/ipad-mini-6-5g-gray-label-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "15.790.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "18.790.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": true
+    },
+    {
+      "id": 5,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad Air 5 WiFi + Cellular",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#e3e4e5",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-trang-thumb-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#6580a3",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f0d95f",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "21.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "23.590.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 6,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad Air 5 WiFi + Cellular",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#e8d2cf",
+          "name_color": "Hồng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274155/s16/ipad-air-5-5G-pink-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#6580a3",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f0d95f",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "21.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "23.590.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 7,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad 10 WiFi + Cellular",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#e3e4e5",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-sliver-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#6580a3",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-blue-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f0d95f",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "14.290.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "16.090.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 8,
+      "to": "/ipad/detail-ipad",
+      "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-sliver-thumb-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-label-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    }
+  ],
+  "mac": [
+    {
+      "id": 1,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Air 15 inch M2 2023 8CPU - 10GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/309018/s16/mac-air-15-m2-starlight-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/309018/s16/mac-air-15-m2-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 2,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-bac-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 3,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-13-m1-xam-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-13-m1-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "19.490.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "21.490.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 4,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-bac-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 5,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-13-m1-xam-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-13-m1-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "19.490.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "21.490.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 6,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Air 15 inch M2 2023 8CPU - 10GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/309018/s16/mac-air-15-m2-starlight-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/309018/s16/mac-air-15-m2-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 7,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-bac-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 8,
+      "to": "/mac/detail-mac",
+      "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-13-m1-xam-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-13-m1-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "19.490.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "21.490.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    }
+  ],
+  "watch": [
+    {
+      "id": 1,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS 44mm Sport Loop",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316015/s16/apple-watch-se-2023-vien-nhom-day-vai-xanh-den-tb-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316015/s16/apple-watch-se-2023-vien-nhom-day-vai-trang-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "7.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 2,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS 44mm Sport Band",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316015/s16/apple-watch-se-2023-vien-nhom-day-vai-trang-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "7.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 3,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316004/s16/apple-watch-se-lte-2023-vien-nhom-day-vai-trang-tb-1-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "8.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 4,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS 44mm Sport Band",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316015/s16/apple-watch-se-2023-vien-nhom-day-vai-trang-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "7.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 5,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316004/s16/apple-watch-se-lte-2023-vien-nhom-day-vai-trang-tb-1-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "8.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 6,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS 44mm Sport Loop",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316015/s16/apple-watch-se-2023-vien-nhom-day-vai-xanh-den-tb-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316015/s16/apple-watch-se-2023-vien-nhom-day-vai-trang-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "7.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 7,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316004/s16/apple-watch-se-lte-2023-vien-nhom-day-vai-trang-tb-1-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "8.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 8,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS 44mm Sport Band",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316015/s16/apple-watch-se-2023-vien-nhom-day-vai-trang-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "7.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    }
+  ],
+  "wish_list": [
+    {
+      "id": 3,
+      "to": "/watch/detail-watch",
+      "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316004/s16/apple-watch-se-lte-2023-vien-nhom-day-vai-trang-tb-1-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#29214E",
+          "name_color": "Xanh Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "8.190.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "9.190.000"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    }
+  ]
+}
