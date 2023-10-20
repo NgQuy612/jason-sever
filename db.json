@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/1",
       "name": "iPhone 11 64GB",
       "color_url": [
         {
@@ -35,7 +35,7 @@
     },
     {
       "id": 2,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/2",
       "name": "iPhone 15 Pro",
       "color_url": [
         {
@@ -90,7 +90,7 @@
     },
     {
       "id": 3,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/3",
       "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
       "color_url": [
         {
@@ -123,7 +123,7 @@
     },
     {
       "id": 4,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/4",
       "name": "iPad 10 WiFi + Cellular",
       "color_url": [
         {
@@ -162,7 +162,7 @@
     },
     {
       "id": 5,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/5",
       "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
       "color_url": [
         {
@@ -195,7 +195,7 @@
     },
     {
       "id": 6,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/6",
       "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
       "color_url": [
         {
@@ -228,7 +228,7 @@
     },
     {
       "id": 7,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/7",
       "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
       "color_url": [
         {
@@ -261,7 +261,7 @@
     },
     {
       "id": 8,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/8",
       "name": "Apple Watch SE 2023 GPS 44mm Sport Band",
       "color_url": [
         {
@@ -296,7 +296,7 @@
   "iphone": [
     {
       "id": 1,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/1",
       "name": "iPhone 11 64GB",
       "color_url": [
         {
@@ -329,7 +329,7 @@
     },
     {
       "id": 2,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/2",
       "name": "iPhone 15 Pro",
       "color_url": [
         {
@@ -384,7 +384,7 @@
     },
     {
       "id": 3,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/3",
       "name": "iPhone 13 64GB",
       "color_url": [
         {
@@ -423,7 +423,7 @@
     },
     {
       "id": 4,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/4",
       "name": "iPhone 15",
       "color_url": [
         {
@@ -462,7 +462,7 @@
     },
     {
       "id": 5,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/5",
       "name": "iPhone 13",
       "color_url": [
         {
@@ -501,7 +501,7 @@
     },
     {
       "id": 6,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/6",
       "name": "iPhone 14 256GB",
       "color_url": [
         {
@@ -540,7 +540,7 @@
     },
     {
       "id": 7,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/7",
       "name": "iPhone 14 Pro ",
       "color_url": [
         {
@@ -579,7 +579,7 @@
     },
     {
       "id": 8,
-      "to": "/iphone/detail-iphone",
+      "to": "/iphone/detail-iphone/8",
       "name": "iPhone 12",
       "color_url": [
         {
@@ -620,7 +620,7 @@
   "ipad": [
     {
       "id": 1,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/1",
       "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
       "color_url": [
         {
@@ -653,7 +653,7 @@
     },
     {
       "id": 2,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/2",
       "name": "iPad 10 WiFi + Cellular",
       "color_url": [
         {
@@ -692,7 +692,7 @@
     },
     {
       "id": 3,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/3",
       "name": "iPad Air 5 WiFi + Cellular",
       "color_url": [
         {
@@ -731,7 +731,7 @@
     },
     {
       "id": 4,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/4",
       "name": "iPad mini 6 WiFi + Cellular",
       "color_url": [
         {
@@ -764,7 +764,7 @@
     },
     {
       "id": 5,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/5",
       "name": "iPad Air 5 WiFi + Cellular",
       "color_url": [
         {
@@ -803,7 +803,7 @@
     },
     {
       "id": 6,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/6",
       "name": "iPad Air 5 WiFi + Cellular",
       "color_url": [
         {
@@ -842,7 +842,7 @@
     },
     {
       "id": 7,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/7",
       "name": "iPad 10 WiFi + Cellular",
       "color_url": [
         {
@@ -881,7 +881,7 @@
     },
     {
       "id": 8,
-      "to": "/ipad/detail-ipad",
+      "to": "/ipad/detail-ipad/8",
       "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
       "color_url": [
         {
@@ -916,7 +916,7 @@
   "mac": [
     {
       "id": 1,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/1",
       "name": "MacBook Air 15 inch M2 2023 8CPU - 10GPU",
       "color_url": [
         {
@@ -949,7 +949,7 @@
     },
     {
       "id": 2,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/2",
       "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
       "color_url": [
         {
@@ -982,7 +982,7 @@
     },
     {
       "id": 3,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/3",
       "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
       "color_url": [
         {
@@ -1015,7 +1015,7 @@
     },
     {
       "id": 4,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/4",
       "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
       "color_url": [
         {
@@ -1048,7 +1048,7 @@
     },
     {
       "id": 5,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/5",
       "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
       "color_url": [
         {
@@ -1081,7 +1081,7 @@
     },
     {
       "id": 6,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/6",
       "name": "MacBook Air 15 inch M2 2023 8CPU - 10GPU",
       "color_url": [
         {
@@ -1114,7 +1114,7 @@
     },
     {
       "id": 7,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/7",
       "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
       "color_url": [
         {
@@ -1147,7 +1147,7 @@
     },
     {
       "id": 8,
-      "to": "/mac/detail-mac",
+      "to": "/mac/detail-mac/8",
       "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
       "color_url": [
         {
@@ -1182,7 +1182,7 @@
   "watch": [
     {
       "id": 1,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/1",
       "name": "Apple Watch SE 2023 GPS 44mm Sport Loop",
       "color_url": [
         {
@@ -1215,7 +1215,7 @@
     },
     {
       "id": 2,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/2",
       "name": "Apple Watch SE 2023 GPS 44mm Sport Band",
       "color_url": [
         {
@@ -1248,7 +1248,7 @@
     },
     {
       "id": 3,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/3",
       "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
       "color_url": [
         {
@@ -1281,7 +1281,7 @@
     },
     {
       "id": 4,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/4",
       "name": "Apple Watch SE 2023 GPS 44mm Sport Band",
       "color_url": [
         {
@@ -1314,7 +1314,7 @@
     },
     {
       "id": 5,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/5",
       "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
       "color_url": [
         {
@@ -1347,7 +1347,7 @@
     },
     {
       "id": 6,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/6",
       "name": "Apple Watch SE 2023 GPS 44mm Sport Loop",
       "color_url": [
         {
@@ -1380,7 +1380,7 @@
     },
     {
       "id": 7,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/7",
       "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
       "color_url": [
         {
@@ -1413,7 +1413,7 @@
     },
     {
       "id": 8,
-      "to": "/watch/detail-watch",
+      "to": "/watch/detail-watch/8",
       "name": "Apple Watch SE 2023 GPS 44mm Sport Band",
       "color_url": [
         {
@@ -1445,39 +1445,5 @@
       "ready": true
     }
   ],
-  "wish_list": [
-    {
-      "id": 3,
-      "to": "/watch/detail-watch",
-      "name": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
-      "color_url": [
-        {
-          "id": 1,
-          "color": "#dddfde",
-          "name_color": "Trắng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316004/s16/apple-watch-se-lte-2023-vien-nhom-day-vai-trang-tb-1-650x650.png"
-        },
-        {
-          "id": 2,
-          "color": "#29214E",
-          "name_color": "Xanh Đen",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316012/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-den-tb-650x650.png"
-        }
-      ],
-      "local_price": [
-        {
-          "id": 1,
-          "local": "64GB",
-          "price": "8.190.000₫"
-        },
-        {
-          "id": 2,
-          "local": "128GB",
-          "price": "9.190.000"
-        }
-      ],
-      "hot": false,
-      "ready": true
-    }
-  ]
+  "wish_list": []
 }
