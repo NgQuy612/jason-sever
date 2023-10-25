@@ -91,6 +91,45 @@
     {
       "id": 3,
       "to": "/ipad/detail-ipad/3",
+      "name": "iPad Air 5 WiFi + Cellular",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#6580a3",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274155/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#e8d2cf",
+          "name_color": "Hồng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274155/s16/ipad-air-5-5G-pink-label-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#b9b8d1",
+          "name_color": "Tím",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274155/s16/ipad-air-5-5G-purple-label-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "21.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "23.590.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "id": 4,
+      "to": "/ipad/detail-ipad/1",
       "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
       "color_url": [
         {
@@ -122,80 +161,8 @@
       "ready": true
     },
     {
-      "id": 4,
-      "to": "/ipad/detail-ipad/4",
-      "name": "iPad 10 WiFi + Cellular",
-      "color_url": [
-        {
-          "id": 1,
-          "color": "#e3e4e5",
-          "name_color": "Trắng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-sliver-650x650.png"
-        },
-        {
-          "id": 2,
-          "color": "#6580a3",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-blue-650x650.png"
-        },
-        {
-          "id": 3,
-          "color": "#f0d95f",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
-        }
-      ],
-      "local_price": [
-        {
-          "id": 1,
-          "local": "64GB",
-          "price": "14.290.000₫"
-        },
-        {
-          "id": 2,
-          "local": "128GB",
-          "price": "16.090.000₫"
-        }
-      ],
-      "hot": true,
-      "ready": false
-    },
-    {
       "id": 5,
       "to": "/mac/detail-mac/5",
-      "name": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
-      "color_url": [
-        {
-          "id": 1,
-          "color": "#F4E8CF",
-          "name_color": "Bạc",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-bac-650x650.png"
-        },
-        {
-          "id": 2,
-          "color": "#acaeb1",
-          "name_color": "Xám",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/302150/s16/mac-pro-16-m2-xam-650x650.png"
-        }
-      ],
-      "local_price": [
-        {
-          "id": 1,
-          "local": "64GB",
-          "price": "32.090.000₫"
-        },
-        {
-          "id": 2,
-          "local": "128GB",
-          "price": "35.090.000₫"
-        }
-      ],
-      "hot": false,
-      "ready": true
-    },
-    {
-      "id": 6,
-      "to": "/mac/detail-mac/6",
       "name": "MacBook Air 13 inch M1 2020 8CPU - 7GPU",
       "color_url": [
         {
@@ -221,6 +188,39 @@
           "id": 2,
           "local": "128GB",
           "price": "21.490.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 6,
+      "to": "/mac/detail-mac/6",
+      "name": "MacBook Air 15 inch M2 2023 8CPU - 10GPU",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#F4E8CF",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/309018/s16/mac-air-15-m2-starlight-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/309018/s16/mac-air-15-m2-xam-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
         }
       ],
       "hot": false,
@@ -424,25 +424,25 @@
     {
       "id": 4,
       "to": "/iphone/detail-iphone/4",
-      "name": "iPhone 15",
+      "name": "iPhone 15 Plus",
       "color_url": [
         {
           "id": 1,
-          "color": "#fff597",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/281570/s16/iphone-15-green-thumbtz_0-650x650.png"
+          "color": "#d5dddf",
+          "name_color": "Xanh dương nhạt",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-blue-thumbtz-1-650x650.png"
         },
         {
           "id": 2,
-          "color": "#a0b4c7",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+          "color": "#4b4f50",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-black-thumbtz-650x650.png"
         },
         {
           "id": 3,
-          "color": "#222930",
-          "name_color": "Đen",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+          "color": "#d0d9ca",
+          "name_color": "Xanh lá nhạt",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-green-thumbtz-650x650.png"
         }
       ],
       "local_price": [
@@ -463,25 +463,19 @@
     {
       "id": 5,
       "to": "/iphone/detail-iphone/5",
-      "name": "iPhone 13",
+      "name": "iPhone 14 Pro Max",
       "color_url": [
         {
           "id": 1,
           "color": "#fff597",
           "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/223602/s16/iphone-13-pink-thumbtz-650x650.png"
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/251192/s16/iphone-14-pro-max-gold-thumbtz-650x650.png"
         },
         {
           "id": 2,
-          "color": "#a0b4c7",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
-        },
-        {
-          "id": 3,
-          "color": "#222930",
+          "color": "#403e3d",
           "name_color": "Đen",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/251192/s16/iphone-14-pro-max-black-thumbtz-650x650.png"
         }
       ],
       "local_price": [
@@ -501,38 +495,54 @@
     },
     {
       "id": 6,
-      "to": "/iphone/detail-iphone/6",
-      "name": "iPhone 14 256GB",
+      "to": "/iphone/detail-iphone/2",
+      "name": "iPhone 15 Pro",
       "color_url": [
         {
           "id": 1,
-          "color": "#fff597",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/289663/s16/iphone-14-blue-thumbtz-650x650.png"
+          "color": "#4f5765",
+          "name_color": "Titan xanh",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-blue-thumbtz-650x650.png"
         },
         {
           "id": 2,
-          "color": "#a0b4c7",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+          "color": "#bab4a9",
+          "name_color": "Titan tự nhiên",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-thumbtz-650x650.png"
         },
         {
           "id": 3,
-          "color": "#222930",
-          "name_color": "Đen",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+          "color": "#f2f1ec",
+          "name_color": "Titan trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-white-thumbtz-650x650.png"
+        },
+        {
+          "id": 4,
+          "color": "#464749",
+          "name_color": "Titan đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-black-thumbtz-1-2-650x650.png"
         }
       ],
       "local_price": [
         {
           "id": 1,
           "local": "128GB",
-          "price": "17.590.000₫"
+          "price": "27.990.000₫"
         },
         {
           "id": 2,
           "local": "256GB",
-          "price": "23.990.000"
+          "price": "30.990.000₫"
+        },
+        {
+          "id": 3,
+          "local": "512GB",
+          "price": "36.590.000₫"
+        },
+        {
+          "id": 4,
+          "local": "1TB",
+          "price": "42.590.000₫"
         }
       ],
       "hot": true,
@@ -540,33 +550,33 @@
     },
     {
       "id": 7,
-      "to": "/iphone/detail-iphone/7",
-      "name": "iPhone 14 Pro ",
+      "to": "/iphone/detail-iphone/4",
+      "name": "iPhone 15 Plus",
       "color_url": [
         {
           "id": 1,
-          "color": "#fff597",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/247508/s16/iphone-14-pro-gold-thumbtz-650x650.png"
+          "color": "#d5dddf",
+          "name_color": "Xanh dương nhạt",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-blue-thumbtz-1-650x650.png"
         },
         {
           "id": 2,
-          "color": "#a0b4c7",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+          "color": "#4b4f50",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-black-thumbtz-650x650.png"
         },
         {
           "id": 3,
-          "color": "#222930",
-          "name_color": "Đen",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+          "color": "#d0d9ca",
+          "name_color": "Xanh lá nhạt",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-green-thumbtz-650x650.png"
         }
       ],
       "local_price": [
         {
           "id": 1,
           "local": "128GB",
-          "price": "20.590.000₫"
+          "price": "22.590.000₫"
         },
         {
           "id": 2,
@@ -574,47 +584,41 @@
           "price": "23.990.000"
         }
       ],
-      "hot": true,
-      "ready": false
+      "hot": false,
+      "ready": true
     },
     {
       "id": 8,
-      "to": "/iphone/detail-iphone/8",
-      "name": "iPhone 12",
+      "to": "/iphone/detail-iphone/1",
+      "name": "iPhone 11 64GB",
       "color_url": [
         {
           "id": 1,
-          "color": "#fff597",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-purple-thumbtz-650x650.png"
+          "color": "#f9f6ef",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-thumbtz-650x650.png"
         },
         {
           "id": 2,
-          "color": "#a0b4c7",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
-        },
-        {
-          "id": 3,
-          "color": "#222930",
+          "color": "#1f2020",
           "name_color": "Đen",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-black-thumbtz-650x650.png"
         }
       ],
       "local_price": [
         {
           "id": 1,
-          "local": "128GB",
-          "price": "23.590.000₫"
+          "local": "64GB",
+          "price": "11.590.000₫"
         },
         {
           "id": 2,
-          "local": "256GB",
-          "price": "23.990.000"
+          "local": "128GB",
+          "price": "13.790.000₫"
         }
       ],
       "hot": true,
-      "ready": false
+      "ready": true
     }
   ],
   "ipad": [
@@ -697,21 +701,21 @@
       "color_url": [
         {
           "id": 1,
-          "color": "#e3e4e5",
-          "name_color": "Trắng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
+          "color": "#6580a3",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274155/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
         },
         {
           "id": 2,
-          "color": "#6580a3",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
+          "color": "#e8d2cf",
+          "name_color": "Hồng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274155/s16/ipad-air-5-5G-pink-label-650x650.png"
         },
         {
           "id": 3,
-          "color": "#f0d95f",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+          "color": "#b9b8d1",
+          "name_color": "Tím",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274155/s16/ipad-air-5-5G-purple-label-650x650.png"
         }
       ],
       "local_price": [
@@ -731,59 +735,53 @@
     },
     {
       "id": 4,
-      "to": "/ipad/detail-ipad/4",
-      "name": "iPad mini 6 WiFi + Cellular",
+      "to": "/ipad/detail-ipad/1",
+      "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
       "color_url": [
         {
           "id": 1,
-          "color": "#e3e4e5",
+          "color": "#dddfde",
           "name_color": "Trắng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/250734/s16/ipad-mini-6-5g-startlight-label-650x650.png"
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-sliver-thumb-label-650x650.png"
         },
         {
           "id": 2,
-          "color": "#68696e",
+          "color": "#acaeb1",
           "name_color": "Xám",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/250734/s16/ipad-mini-6-5g-gray-label-650x650.png"
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-label-650x650.png"
         }
       ],
       "local_price": [
         {
           "id": 1,
           "local": "64GB",
-          "price": "15.790.000₫"
+          "price": "32.090.000₫"
         },
         {
           "id": 2,
           "local": "128GB",
-          "price": "18.790.000₫"
+          "price": "35.090.000₫"
         }
       ],
-      "hot": true,
+      "hot": false,
       "ready": true
     },
     {
       "id": 5,
       "to": "/ipad/detail-ipad/5",
-      "name": "iPad Air 5 WiFi + Cellular",
+      "name": "iPad 9 WiFi + Cellular",
       "color_url": [
         {
           "id": 1,
-          "color": "#e3e4e5",
-          "name_color": "Trắng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-trang-thumb-label-650x650.png"
+          "color": "#e2e3e4",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/250731/s16/ipad-9-wifi-cellular-silver-label-650x650.png"
         },
         {
           "id": 2,
-          "color": "#6580a3",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
-        },
-        {
-          "id": 3,
-          "color": "#f0d95f",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+          "color": "#68696e",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/250731/s16/ipad-9-wifi-cellular-grey-label-650x650.png"
         }
       ],
       "local_price": [
@@ -803,46 +801,40 @@
     },
     {
       "id": 6,
-      "to": "/ipad/detail-ipad/6",
-      "name": "iPad Air 5 WiFi + Cellular",
+      "to": "/ipad/detail-ipad/1",
+      "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
       "color_url": [
         {
           "id": 1,
-          "color": "#e8d2cf",
-          "name_color": "Hồng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/274155/s16/ipad-air-5-5G-pink-label-650x650.png"
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-sliver-thumb-label-650x650.png"
         },
         {
           "id": 2,
-          "color": "#6580a3",
-          "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/522/274156/s16/air-5-m1-wifi-cellular-xanh-thumb-label-650x650.png"
-        },
-        {
-          "id": 3,
-          "color": "#f0d95f",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-label-650x650.png"
         }
       ],
       "local_price": [
         {
           "id": 1,
           "local": "64GB",
-          "price": "21.590.000₫"
+          "price": "32.090.000₫"
         },
         {
           "id": 2,
           "local": "128GB",
-          "price": "23.590.000₫"
+          "price": "35.090.000₫"
         }
       ],
-      "hot": true,
-      "ready": false
+      "hot": false,
+      "ready": true
     },
     {
       "id": 7,
-      "to": "/ipad/detail-ipad/7",
+      "to": "/ipad/detail-ipad/2",
       "name": "iPad 10 WiFi + Cellular",
       "color_url": [
         {
@@ -881,36 +873,36 @@
     },
     {
       "id": 8,
-      "to": "/ipad/detail-ipad/8",
-      "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
+      "to": "/ipad/detail-ipad/5",
+      "name": "iPad 9 WiFi + Cellular",
       "color_url": [
         {
           "id": 1,
-          "color": "#dddfde",
-          "name_color": "Trắng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-sliver-thumb-label-650x650.png"
+          "color": "#e2e3e4",
+          "name_color": "Bạc",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/250731/s16/ipad-9-wifi-cellular-silver-label-650x650.png"
         },
         {
           "id": 2,
-          "color": "#acaeb1",
+          "color": "#68696e",
           "name_color": "Xám",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-label-650x650.png"
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/250731/s16/ipad-9-wifi-cellular-grey-label-650x650.png"
         }
       ],
       "local_price": [
         {
           "id": 1,
           "local": "64GB",
-          "price": "32.090.000₫"
+          "price": "21.590.000₫"
         },
         {
           "id": 2,
           "local": "128GB",
-          "price": "35.090.000₫"
+          "price": "23.590.000₫"
         }
       ],
-      "hot": false,
-      "ready": true
+      "hot": true,
+      "ready": false
     }
   ],
   "mac": [
@@ -1445,5 +1437,94 @@
       "ready": true
     }
   ],
-  "wish_list": []
+  "wish_list": [
+    {
+      "id": 4,
+      "to": "/ipad/detail-ipad/1",
+      "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#dddfde",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-sliver-thumb-label-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#acaeb1",
+          "name_color": "Xám",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-label-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "64GB",
+          "price": "32.090.000₫"
+        },
+        {
+          "id": 2,
+          "local": "128GB",
+          "price": "35.090.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true
+    },
+    {
+      "id": 2,
+      "to": "/iphone/detail-iphone/2",
+      "name": "iPhone 15 Pro",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#4f5765",
+          "name_color": "Titan xanh",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#bab4a9",
+          "name_color": "Titan tự nhiên",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#f2f1ec",
+          "name_color": "Titan trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-white-thumbtz-650x650.png"
+        },
+        {
+          "id": 4,
+          "color": "#464749",
+          "name_color": "Titan đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-black-thumbtz-1-2-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "27.990.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "30.990.000₫"
+        },
+        {
+          "id": 3,
+          "local": "512GB",
+          "price": "36.590.000₫"
+        },
+        {
+          "id": 4,
+          "local": "1TB",
+          "price": "42.590.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    }
+  ]
 }
