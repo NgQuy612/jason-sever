@@ -833,43 +833,30 @@
       "ready": true
     },
     {
-      "id": 7,
-      "to": "/ipad/detail-ipad/2",
-      "name": "iPad 10 WiFi + Cellular",
+      "to": "/ipad/detail-ipad/7",
+      "name": "iPad Air 5 WiFi",
+      "category": "ipad",
       "color_url": [
         {
-          "id": 1,
-          "color": "#e3e4e5",
+          "color": "#e5e0d8",
           "name_color": "Trắng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-sliver-650x650.png"
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/248096/s16/ipad-air-5-wifi-startlight-label-650x650.png"
         },
         {
-          "id": 2,
-          "color": "#6580a3",
+          "color": "#88aebf",
           "name_color": "Xanh Dương",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/ipad-gen-10-cellular-blue-650x650.png"
-        },
-        {
-          "id": 3,
-          "color": "#f0d95f",
-          "name_color": "Vàng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295453/s16/iPad-gen-10-5G-yellow-thumb-650x650.png"
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/248096/s16/ipad-air-5-wifi-blue-label-650x650.png"
         }
       ],
       "local_price": [
         {
-          "id": 1,
-          "local": "64GB",
-          "price": "14.290.000₫"
-        },
-        {
-          "id": 2,
           "local": "128GB",
-          "price": "16.090.000₫"
+          "price": "14.390.000₫"
         }
       ],
       "hot": true,
-      "ready": false
+      "ready": true,
+      "id": 7
     },
     {
       "id": 8,
@@ -1439,39 +1426,6 @@
   ],
   "wish_list": [
     {
-      "id": 4,
-      "to": "/ipad/detail-ipad/1",
-      "name": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
-      "color_url": [
-        {
-          "id": 1,
-          "color": "#dddfde",
-          "name_color": "Trắng",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-sliver-thumb-label-650x650.png"
-        },
-        {
-          "id": 2,
-          "color": "#acaeb1",
-          "name_color": "Xám",
-          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/295467/s16/iPad-Pro-M2-129-5G-grey-thumb-label-650x650.png"
-        }
-      ],
-      "local_price": [
-        {
-          "id": 1,
-          "local": "64GB",
-          "price": "32.090.000₫"
-        },
-        {
-          "id": 2,
-          "local": "128GB",
-          "price": "35.090.000₫"
-        }
-      ],
-      "hot": false,
-      "ready": true
-    },
-    {
       "id": 2,
       "to": "/iphone/detail-iphone/2",
       "name": "iPhone 15 Pro",
@@ -1525,6 +1479,125 @@
       ],
       "hot": true,
       "ready": false
+    },
+    {
+      "id": 3,
+      "to": "/iphone/detail-iphone/3",
+      "name": "iPhone 13 64GB",
+      "color_url": [
+        {
+          "id": 1,
+          "color": "#fff597",
+          "name_color": "Vàng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-gold-thumbtz-650x650.png"
+        },
+        {
+          "id": 2,
+          "color": "#a0b4c7",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-thumbtz-650x650.png"
+        },
+        {
+          "id": 3,
+          "color": "#222930",
+          "name_color": "Đen",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-black-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "id": 1,
+          "local": "128GB",
+          "price": "21.590.000₫"
+        },
+        {
+          "id": 2,
+          "local": "256GB",
+          "price": "23.990.000"
+        }
+      ],
+      "hot": true,
+      "ready": false
+    },
+    {
+      "to": "/ipad/detail-ipad/7",
+      "name": "iPad Air 5 WiFi",
+      "category": "ipad",
+      "color_url": [
+        {
+          "color": "#e5e0d8",
+          "name_color": "Trắng",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/248096/s16/ipad-air-5-wifi-startlight-label-650x650.png"
+        },
+        {
+          "color": "#88aebf",
+          "name_color": "Xanh Dương",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/248096/s16/ipad-air-5-wifi-blue-label-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "local": "128GB",
+          "price": "14.390.000₫"
+        }
+      ],
+      "hot": true,
+      "ready": true,
+      "id": 7
+    }
+  ],
+  "buy_product": [
+    {
+      "name": "Nguyễn ngọc quý",
+      "phoneNumber": "0968961419",
+      "address": "Dai Hoc Giao Thong Van Tai CS3",
+      "email": "nguyenngocquy612@gmail.com",
+      "nameModel": "iPhone 15 Plus",
+      "color": "Xanh dương nhạt",
+      "local": "128GB",
+      "price": "22.590.000₫",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-blue-thumbtz-1-650x650.png",
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "name": "Nguyễn ngọc quý",
+      "phoneNumber": "0968961419",
+      "address": "Dai Hoc Giao Thong Van Tai CS3",
+      "email": "nguyenngocquy062002@gmail.com",
+      "nameModel": "iPad Air 5 WiFi",
+      "color": "Trắng",
+      "local": "128GB",
+      "price": "14.390.000₫",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/248096/s16/ipad-air-5-wifi-startlight-label-650x650.png",
+      "status": "Completed",
+      "id": 2
+    },
+    {
+      "name": "NQuy612",
+      "phoneNumber": "0968961419",
+      "address": "Aaa",
+      "email": "nguyenngocquy612@gmail.com",
+      "nameModel": "iPad Air 5 WiFi",
+      "color": "Trắng",
+      "local": "128GB",
+      "price": "14.390.000₫",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/248096/s16/ipad-air-5-wifi-startlight-label-650x650.png",
+      "status": "Processing",
+      "id": 3
+    },
+    {
+      "name": "QuyNguyen",
+      "phoneNumber": "0968961419",
+      "address": "Aaa",
+      "email": "nguyenngocquy062002@gmail.com",
+      "nameModel": "Apple Watch SE 2023 GPS + Cellular 40mm Sport Loop",
+      "color": "Trắng",
+      "local": "64GB",
+      "price": "8.190.000₫",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316004/s16/apple-watch-se-lte-2023-vien-nhom-day-vai-trang-tb-1-650x650.png",
+      "status": "Processing",
+      "id": 4
     }
   ]
 }
