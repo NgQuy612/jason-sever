@@ -619,6 +619,36 @@
       ],
       "hot": true,
       "ready": true
+    },
+    {
+      "to": "/iphone/detail-iphone/9",
+      "name": "iPhone 12",
+      "category": "iphone",
+      "color_url": [
+        {
+          "color": "#b7afe6",
+          "name_color": "Tím",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-purple-thumbtz-650x650.png"
+        },
+        {
+          "color": "#b90b2d",
+          "name_color": "Đỏ",
+          "url": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-red-thumbtz-650x650.png"
+        }
+      ],
+      "local_price": [
+        {
+          "local": "64GB",
+          "price": "13.590.000₫"
+        },
+        {
+          "local": "128GB",
+          "price": "16.490.000₫"
+        }
+      ],
+      "hot": false,
+      "ready": true,
+      "id": 9
     }
   ],
   "ipad": [
@@ -1569,6 +1599,19 @@
       "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-blue-thumbtz-650x650.png",
       "status": "Processing",
       "id": 5
+    },
+    {
+      "name": "Nguyễn Văn A",
+      "phoneNumber": "0357671223",
+      "address": "123 Nguyễn Thị C, Phường B, Quận D",
+      "email": "nguyenngocquy612@gmail.com",
+      "nameModel": "iPhone 11 64GB",
+      "color": "Đen",
+      "local": "128GB",
+      "price": "13.790.000₫",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-black-thumbtz-650x650.png",
+      "status": "Completed",
+      "id": 6
     }
   ]
 }
