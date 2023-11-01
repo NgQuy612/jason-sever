@@ -1571,7 +1571,7 @@
       "local": "128GB",
       "price": "14.390.000₫",
       "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/522/248096/s16/ipad-air-5-wifi-startlight-label-650x650.png",
-      "status": "Delivered",
+      "status": "Completed",
       "id": 3
     },
     {
@@ -1584,21 +1584,8 @@
       "local": "64GB",
       "price": "8.190.000₫",
       "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/316004/s16/apple-watch-se-lte-2023-vien-nhom-day-vai-trang-tb-1-650x650.png",
-      "status": "Processing",
+      "status": "Completed",
       "id": 4
-    },
-    {
-      "name": "NQuy612",
-      "phoneNumber": "0968961419",
-      "address": "Aaa",
-      "email": "abcd@gamail.com",
-      "nameModel": "iPhone 15 Pro",
-      "color": "Titan xanh",
-      "local": "128GB",
-      "price": "27.990.000₫",
-      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-blue-thumbtz-650x650.png",
-      "status": "Processing",
-      "id": 5
     },
     {
       "name": "Nguyễn Văn A",
@@ -1612,6 +1599,34 @@
       "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-black-thumbtz-650x650.png",
       "status": "Completed",
       "id": 6
+    },
+    {
+      "name": "Nguyen Van B",
+      "phoneNumber": "0968961419",
+      "address": "Dh Giao Thong Van Tai",
+      "email": "abcd@gamail.com",
+      "nameModel": "iPhone 15 Plus",
+      "color": "Đen",
+      "local": "256GB",
+      "price": "23.990.000",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-black-thumbtz-650x650.png",
+      "date": "16:21:58 31/10/2023",
+      "status": "Delivered",
+      "id": 9
+    },
+    {
+      "name": "NQuy0612",
+      "phoneNumber": "0968961419",
+      "address": "Aaa",
+      "email": "nguyenngocquy062002@gmail.com",
+      "nameModel": "iPhone 15 Plus",
+      "color": "Đen",
+      "local": "128GB",
+      "price": "22.590.000₫",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-black-thumbtz-650x650.png",
+      "date": "16:31:32 31/10/2023",
+      "status": "Processing",
+      "id": 10
     }
   ]
 }
